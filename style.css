@@ -126,6 +126,7 @@
     font-size: var(--fs-body);
     font-family: var(--ff-body);
     color: var(--clr-primary-400);
+    overflow-x:hidden;
   }
   
   p:not([class]) {
